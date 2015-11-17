@@ -1,0 +1,3 @@
+void drawSubtitles(){
+  //Method stub
+}

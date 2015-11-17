@@ -1,0 +1,3 @@
+void thunder(){
+  //Method stub
+}

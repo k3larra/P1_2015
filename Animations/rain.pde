@@ -1,0 +1,3 @@
+void rain(){
+   //Method stub
+}
